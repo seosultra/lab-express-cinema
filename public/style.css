@@ -4,4 +4,7 @@ body {
   margin: 0 auto;
 }
 
-/* Your styles here */
+.home {
+  text-align: left;
+  background-image: url("../public/cine.jpg");
+}
